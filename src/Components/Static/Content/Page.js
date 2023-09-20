@@ -7,6 +7,7 @@ function Page ({isOpen, setOpen}){
     return (
         <div className='Page'> 
             <Header isOpen={isOpen} setOpen={setOpen}></Header>
+            
         </div>
     )
 }
